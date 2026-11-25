@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Xtun",
-            url: "https://github.com/amnezia-vpn/xtun-swift/releases/download/0.0.2-rc3/Xtun.xcframework.zip",
-            checksum: "0522863a8544b6b6fc1363f50aeb2ae3cf77f720df9f219e1fd507902762f22a"
+            url: "https://github.com/amnezia-vpn/xtun-swift/releases/download/0.0.2-rc4/Xtun.xcframework.zip",
+            checksum: "8d1c60932973a8e405b28d81fa2d7b361481871a4e7c0aae94dc3dafce1f6311"
         ),
     ]
 )
